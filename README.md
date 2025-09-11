@@ -13,7 +13,7 @@ Enjoy, and best of luck!
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-width="2255px" height="2255px" viewBox="0 0 2255 2255" enable-background="new 0 0 2255 2255" xml:space="preserve">
+width="142px" height="142px" viewBox="0 0 2255 2255" enable-background="new 0 0 2255 2255" xml:space="preserve">
 <rect x="0" y="0" width="2255" height="2255" fill="rgb(255,255,255)" /><g transform="translate(110,110)"><g transform="translate(440,0) scale(0.55,0.55)"><g transform="" style="fill: rgb(0, 0, 0);">
 <rect width="100" height="100"/>
 </g></g><g transform="translate(715,0) scale(0.55,0.55)"><g transform="" style="fill: rgb(0, 0, 0);">
