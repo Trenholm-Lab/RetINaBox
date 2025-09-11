@@ -8,3 +8,4 @@ Enjoy, and best of luck!
 
 
 <img width="115" height="142" alt="logo" src="https://github.com/user-attachments/assets/69d1e6f6-9cc6-4a9f-814f-0b6a6d884704" />
+<img width="142" height="142" alt="RetINaBox_QR" src="https://github.com/user-attachments/assets/a420b7ba-92e9-4a22-a8ab-a556b0b1482c" />
