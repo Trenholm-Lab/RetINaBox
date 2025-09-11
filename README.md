@@ -1,4 +1,5 @@
-# RetINaBox
+# RetINaBox 
+<img width="115" height="142" alt="logo" src="https://github.com/user-attachments/assets/69d1e6f6-9cc6-4a9f-814f-0b6a6d884704" /> 
 
 Welcome to RetINaBox, an interactive learning tool for experimental neuroscience.
 
@@ -7,7 +8,6 @@ To get started, you'll want to build yourself a RetINaBox, install the software 
 Enjoy, and best of luck!
 
 
-<img width="115" height="142" alt="logo" src="https://github.com/user-attachments/assets/69d1e6f6-9cc6-4a9f-814f-0b6a6d884704" /> 
 
 
 
