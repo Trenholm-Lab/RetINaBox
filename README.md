@@ -9,7 +9,7 @@ To get started, you'll want to build yourself a RetINaBox, install the software 
 Enjoy, and best of luck!
 
 
-<img width="173" height="213" alt="logo" src="https://github.com/user-attachments/assets/69d1e6f6-9cc6-4a9f-814f-0b6a6d884704" /> 
+<img width="115" height="142" alt="logo" src="https://github.com/user-attachments/assets/69d1e6f6-9cc6-4a9f-814f-0b6a6d884704" /> 
 
 
 <img width="142" height="142" alt="RetINaBox_QR" src="https://github.com/user-attachments/assets/797e2540-f859-4a70-bf1e-760b6ce1ea14" />
