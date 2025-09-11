@@ -1,5 +1,5 @@
 # RetINaBox 
-<img width="115" height="142" alt="logo" src="https://github.com/user-attachments/assets/69d1e6f6-9cc6-4a9f-814f-0b6a6d884704" /> 
+<img width="173" height="213" alt="logo" src="https://github.com/user-attachments/assets/69d1e6f6-9cc6-4a9f-814f-0b6a6d884704" /> 
 
 Welcome to RetINaBox, an interactive learning tool for experimental neuroscience.
 
