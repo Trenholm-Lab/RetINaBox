@@ -9,5 +9,5 @@ Enjoy, and best of luck!
 
 <img width="115" height="142" alt="logo" src="https://github.com/user-attachments/assets/69d1e6f6-9cc6-4a9f-814f-0b6a6d884704" /> 
 
-<img width="142" height="142" alt="RetINaBox_QR_smaller" src="http://www.trenholmlab.com/RetINaBox.html" />
 
+<img width="142" height="142" alt="RetINaBox_QR_smaller" src="https://github.com/user-attachments/assets/5147cdc6-2912-4b44-bc38-925b02de6543" />
