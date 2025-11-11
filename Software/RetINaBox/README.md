@@ -1,5 +1,7 @@
 Welcome to RetINaBox! 
 
+*We strongly recommend you run the software on a Raspberry Pi 500 (or Raspberry Pi 5), as it may not load on a Pi 400 (or Pi 4), and even if it does it will likely be laggy.
+
 ### Step 1: Download a ZIP of the repository
 
 ### Step 2: Navigate into the un-zipped directory (in terminal)
