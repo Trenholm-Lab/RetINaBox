@@ -8,6 +8,4 @@ To get started, you'll want to build yourself a RetINaBox, install the software 
 
 Enjoy, and best of luck!
 
-
-<img width="115" height="142" alt="logo" src="https://github.com/user-attachments/assets/69d1e6f6-9cc6-4a9f-814f-0b6a6d884704" /> 
-
+<img width="4506" height="3081" alt="cover art copy" src="https://github.com/user-attachments/assets/1c112565-ad8b-4f58-bb62-e97373c8a283" />
