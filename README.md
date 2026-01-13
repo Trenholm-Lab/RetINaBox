@@ -2,7 +2,7 @@
 
 
 
-Welcome to RetINaBox, an interactive learning tool for experimental neuroscience.
+Welcome to RetINaBox, an interactive learning tool for experimental neuroscience. If you haven't read the paper yet, check it out at https://www.eneuro.org/content/13/1/ENEURO.0349-25.2025.
 
 To get started, you'll want to build yourself a RetINaBox, install the software on a Raspberry Pi, and connect your RetINaBox to the Raspberry Pi. Everything you need to get going can be found here, from the 3D printing files, to the components list, to the software, to the user manual. Once you're all up and running, check out the lesson plans!
 
